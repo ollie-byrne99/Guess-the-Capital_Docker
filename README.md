@@ -1,4 +1,10 @@
-# Instructions
+# Guide
+
+## Summary
+
+This is a dockerised version of a fun and simple geographical quiz game called 'Guess the Capital', created by @ollie-byrne99, @tryingbiomedeng, and @bdf092 in July 2023.
+
+## Instructions
 
 1 - Install Docker and open it. 
 
