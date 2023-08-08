@@ -1,0 +1,28 @@
+/* default element styling */
+.box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    min-width: 20vh;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px solid #54597F;
+}
+
+#box1 {
+    background-color: #83BCD9;
+}
+
+#box2 {
+    background-color: #F6759D;
+}
+
+#box3 {
+    background-color: #F6B854;
+}
+
+#box4 {
+    background-color: #788f75;
+}
+
